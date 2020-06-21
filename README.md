@@ -4,5 +4,5 @@ game built with react
 
 Technology:
 react,
-js/ es6,
-node/ express
+js, es6,
+node, express
