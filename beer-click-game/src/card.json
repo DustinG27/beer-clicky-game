@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.redd.it/us7x3bhj7l331.jpg",
+    "name": "Jai Alai",
+    "style": "IPA",
+    "notes": "Citrusy, Fruity, Hoppy"
+  },
+  {
+    "id": 2,
+    "image": "https://2.bp.blogspot.com/-PKS_8pFwBFc/WiHKopJpzrI/AAAAAAAAIf0/dcO5HV7Tx9UL-wZAYx2ZQaGCiihVxw1fACLcBGAs/s1600/Funky%2BBuddha%2BLast%2BSnow%2B2017.JPG",
+    "name": "Last Snow",
+    "style": "Stout",
+    "notes": "Coconut, Coffee, Smooth"
+  },
+  {
+    "id": 3,
+    "image": "https://untappd.akamaized.net/photo/2020_04_04/56f6b4779492f63bba2c41ee0ff403a9_c_883544996_640x640.jpg",
+    "name": "Snow Bird Reserve",
+    "style": "Porter",
+    "notes": "Coffee, Roasty, Full"
+  },
+  {
+    "id": 4,
+    "image": "https://i.pinimg.com/originals/ef/9c/0f/ef9c0f0b6e93a0d01b84e0e95d33d80b.jpg",
+    "name": "Yuengling",
+    "style": "Lager",
+    "notes": "Smooth, Light, Malty"
+  },
+  {
+    "id": 5,
+    "image": "https://i1.wp.com/absolutebeer.com/wp-content/uploads/2019/08/2018-0127-Sour-Monkey-Photo.jpg?fit=640%2C640&ssl=1",
+    "name": "Sour Monkey",
+    "style": "Sour",
+    "notes": "Apple, Tart, Sweet"
+  },
+  {
+    "id": 6,
+    "image": "https://i2.wp.com/absolutebeer.com/wp-content/uploads/2016/08/2016_0807_Floridian_Hefeweizen_Photo.jpg?fit=640%2C640&ssl=1",
+    "name": "Floridian",
+    "style": "Hefeweizen",
+    "notes": "Banana, Clove, Sweet"
+  },
+  {
+    "id": 7,
+    "image": "https://lh5.googleusercontent.com/-3LGbWeUo4Lk/UozcpXhrlsI/AAAAAAAAkE4/5jy3rM7Mufg/s400/20131111_203833.jpg",
+    "name": "Dirt Wolf",
+    "style": "DIPA",
+    "notes": "Floral, Hoppy, Strong"
+  },
+  {
+    "id": 8,
+    "image": "https://www.beerinfinity.com/wp-content/uploads/pilsner-urquell-beer-225x300.jpg",
+    "name": "Pilsner Urquell",
+    "style": "Pilsner",
+    "notes": "Light, Clean, Smooth"
+  },
+  {
+    "id": 9,
+    "image": "https://dontdrinkbeer.files.wordpress.com/2014/08/img_1408.jpg",
+    "name": "Space Station Middle Finger",
+    "style": "Pale Ale",
+    "notes": "Hoppy, Smooth, Light"
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/200x250/bestbrown.jpg",
+    "name": "Best Brown",
+    "style": "Brown Ale",
+    "notes": "Malty, Sweet, Hoppy"
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/200x250/mrtractor.jpg",
+    "name": "Mr. Tractor",
+    "style": "Kolsch",
+    "notes": "Light, Hoppy, Clean"
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/200x250/deadrise.jpg",
+    "name": "Dead Rise",
+    "style": "Summer Ale",
+    "notes": "Spicy, Strong, Hoppy"
+  }
+]
